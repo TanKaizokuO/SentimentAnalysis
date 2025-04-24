@@ -75,6 +75,7 @@ It fetches news from **Finviz**, performs **sentiment analysis** using **VADER**
 📁 stock-sentiment-dashboard
  ┣ 📄 app.py
  ┣ 📄 headlines_history.csv  # (Auto-created after first news fetch)
+ ┣ 📄 requirements.txt
  ┗ 📄 README.md
 ```
 
